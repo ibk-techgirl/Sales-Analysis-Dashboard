@@ -1,7 +1,6 @@
 # Sales-Analysis-Dashboard
 
-
-![Sales Analysis Dashboard](https://drive.google.com/uc?export=view&id=0kVasCEkjUCdNwzy4qhxttRH)
+[![Sales Analysis Dashboard](https://drive.google.com/uc?export=view&id=0kVasCEkjUCdNwzy4qhxttRH)](https://drive.google.com/file/d/0kVasCEkjUCdNwzy4qhxttRH/view?usp=sharing)
 
 ## Overview
 

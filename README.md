@@ -2,6 +2,7 @@
 
 [![Sales Analysis Dashboard](https://drive.google.com/uc?export=view&id=0kVasCEkjUCdNwzy4qhxttRH)](https://drive.google.com/file/d/0kVasCEkjUCdNwzy4qhxttRH/view?usp=sharing)
 
+
 ## Overview
 
 The **Sales Analysis Dashboard** is an insightful tool designed to provide an in-depth view of the company’s sales performance across multiple dimensions. From understanding which products drive the most profit to analyzing sales across different customer segments and regions, this dashboard equips decision-makers with valuable data to steer the company towards greater profitability. By dissecting monthly trends, revenue contributions, and geographic profitability, the dashboard reveals key opportunities for growth and areas needing strategic adjustment. This comprehensive view supports informed decision-making and helps the company stay ahead of the competition by targeting the right markets with the right products at the right time.
